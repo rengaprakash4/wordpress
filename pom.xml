@@ -93,7 +93,7 @@
 				<version>2.2</version>
 				<configuration>
 					<path>/jwordpress</path>
-					<port>8080</port>
+					<port>8081</port>
 				</configuration>
 				<dependencies>
 					<dependency>
