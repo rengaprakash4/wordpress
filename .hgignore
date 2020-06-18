@@ -1,0 +1,17 @@
+syntax: glob
+overlays/
+target/
+.idea/workspace.xml
+.idea/uiDesigner.xml
+.idea/misc.xml
+.idea/compiler.xml
+.idea/modules.xml
+/src/main/latest.tar.gz
+/src/main/webapp/wp-content/plugins/*.zip
+.idea/vcs.xml
+.idea/libraries/
+.idea/artifacts/
+.idea/shelf/
+
+jwordpress.iml
+.idea/encodings.xml
